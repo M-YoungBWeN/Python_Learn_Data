@@ -7,6 +7,7 @@ print('-' * 20)
 
 s = 0
 for i in range(1, 11):  # [1, 11)
+    # range()是python的一个内置函数,用来创建一个整数序列(开始，结束不包含，步长)
     # print(i)
     if i % 2 == 0:
         print(i, '是偶数', sep='')

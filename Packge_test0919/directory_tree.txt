@@ -1,0 +1,35 @@
+E:\1_Code\Python_Learn_Data\Packge_test0919/
+├── A
+│   ├── B
+│   │   ├── model3.py
+│   │   ├── model4.py
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   │       ├── model3.cpython-311.pyc
+│   │       ├── model4.cpython-311.pyc
+│   │       └── __init__.cpython-311.pyc
+│   ├── model1.py
+│   ├── model2.py
+│   ├── __init__.py
+│   └── __pycache__
+│       ├── model1.cpython-311.pyc
+│       ├── model2.cpython-311.pyc
+│       └── __init__.cpython-311.pyc
+├── AA
+│   ├── BB
+│   │   ├── b.py
+│   │   ├── data.txt
+│   │   ├── DataSet
+│   │   │   └── data2.txt
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   │       ├── b.cpython-311.pyc
+│   │       └── __init__.cpython-311.pyc
+│   ├── file1.py
+│   ├── file2.py
+│   ├── __init__.py
+│   └── __pycache__
+│       └── __init__.cpython-311.pyc
+├── directory_tree.txt
+├── test.py
+└── 文件树脚本.py
